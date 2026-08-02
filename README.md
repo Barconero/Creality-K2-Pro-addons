@@ -5,6 +5,7 @@ Add LINE_PURGE in you printer start g-code
 
 ===
 LINE_PURGE - For slicer start G-code
+
 NOZZLE_LED_ON
 NOZZLE_LED_OFF
 MY_UNLOAD_FILAMENT
