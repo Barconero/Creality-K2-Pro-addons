@@ -3,7 +3,7 @@ Copy *.py to you printer /usr/share/klipper/klippy/extras/
 
 Add LINE_PURGE in you printer start g-code
 
-===  
+ ===  
 LINE_PURGE - For slicer start G-code  
 NOZZLE_LED_ON  
 NOZZLE_LED_OFF  
@@ -17,7 +17,7 @@ TEST_RESONANCES_GRAPHS
 BELTS_SHAPER_CALIBRATION  
 MY_PID  
 CAL_XY / CAL_E1 / CAL_E2  
-===  
-
-Don't forget to remove SET_GCODE_OFFSET from START_PRINT
-
+ ===   
+  
+Don't forget to remove SET_GCODE_OFFSET from START_PRINT  
+  
