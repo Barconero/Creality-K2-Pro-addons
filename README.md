@@ -1,3 +1,4 @@
+
 Copy *.py to you printer /usr/share/klipper/klippy/extras/
 
 Add LINE_PURGE in you printer start g-code
@@ -19,3 +20,4 @@ CAL_XY / CAL_E1 / CAL_E2
 ===  
 
 Don't forget to remove SET_GCODE_OFFSET from START_PRINT
+
