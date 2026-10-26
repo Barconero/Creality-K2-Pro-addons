@@ -21,5 +21,5 @@ GIT_CFG
 END_PRINT
 ===   
   
-Don't forget to remove SET_GCODE_OFFSET from START_PRINT  
+For save-zoffset.cfg do not forget to remove SET_GCODE_OFFSET from START_PRINT 
   
